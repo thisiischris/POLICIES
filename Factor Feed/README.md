@@ -36,7 +36,7 @@ Factor Feed is an informational app. There is no brokerage, no trading, no portf
 
 Privacy policy: [https://github.com/thisiischris/FactorFeedApp/blob/main/PRIVACY.md](https://github.com/thisiischris/FactorFeedApp/blob/main/PRIVACY.md)
 
-Support: [thefactorapp@gmail.com](mailto:thefactorapp@gmail.com)
+Support: [signatureappssupport+factorapp@gmail.com](mailto:signatureappssupport+factorapp@gmail.com)
 
 ## About Factor Feed
 
@@ -90,7 +90,7 @@ npm run eas:env:pull:production
 
 ## Contact & support
 
-If you experience any issues with the app or have questions about anything else, please reach out at [thefactorapp@gmail.com](mailto:thefactorapp@gmail.com).
+If you experience any issues with the app or have questions about anything else, please reach out at [signatureappssupport+factorapp@gmail.com](mailto:signatureappssupport+factorapp@gmail.com).
 
 ## License
 

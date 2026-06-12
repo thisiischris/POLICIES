@@ -2,7 +2,7 @@
 
 **Effective Date: May 13, 2026**
 
-Factor Feed does not require a user account. Most preferences and cached data stay on your device; uninstalling the App removes that local data. If you enabled push notifications, we also stored a device push token and alert preferences on our servers so delivery could work — turn off All Price Alerts in Settings (or revoke system notification permission) to stop using that token, and email thefactorapp@gmail.com or use Contact Support in Settings if you want confirmation of server-side deletion beyond uninstall.
+Factor Feed does not require a user account. Most preferences and cached data stay on your device; uninstalling the App removes that local data. If you enabled push notifications, we also stored a device push token and alert preferences on our servers so delivery could work — turn off Notification Alerts in Settings (or revoke system notification permission) to stop using that token, and email signatureappssupport+factorapp@gmail.com or use Contact Support in Settings if you want confirmation of server-side deletion beyond uninstall.
 
 ## Introduction
 
@@ -40,11 +40,11 @@ Standard web servers and cloud platforms may automatically process technical met
 
 ## Notifications
 
-When you turn on All Price Alerts (or leave granular alert types enabled) and grant the operating system’s notification permission, the App obtains an Expo push token and sends it, together with your on/off preferences for each alert category, to our Supabase Edge Function using the same publishable project key as other API calls. Tokens are stored in our database only so we can deliver the notifications you asked for.
+When you turn on Notification Alerts (or leave granular alert types enabled) and grant the operating system’s notification permission, the App obtains an Expo push token and sends it, together with your on/off preferences for each alert category, to our Supabase Edge Function using the same publishable project key as other API calls. Tokens are stored in our database only so we can deliver the notifications you asked for.
 
 Push delivery is relayed through Expo’s push notification service, which in turn uses Apple (APNs) on iOS and Google (FCM) on Android. Expo and those providers process technical identifiers needed to deliver messages; see their respective privacy notices for details.
 
-If you turn off All Price Alerts, the App registers your choice with the server and stops associating a push token with delivery for that device install. You can withdraw consent at any time using the toggles in Settings or by revoking notification permission in the system settings for Factor Feed. Uninstalling the App removes local preferences; you may request deletion of server-side push rows by emailing thefactorapp@gmail.com or via Contact Support in Settings if you need confirmation beyond uninstall.
+If you turn off Notification Alerts, the App registers your choice with the server and stops associating a push token with delivery for that device install. You can withdraw consent at any time using the toggles in Settings or by revoking notification permission in the system settings for Factor Feed. Uninstalling the App removes local preferences; you may request deletion of server-side push rows by emailing signatureappssupport+factorapp@gmail.com or via Contact Support in Settings if you need confirmation beyond uninstall.
 
 ## Links and embedded browsing
 
@@ -56,7 +56,7 @@ The production Factor Feed app distributed on the App Store and Google Play does
 
 ## Children’s privacy
 
-The App is a general-audience financial information tool and is not directed at children under 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children for targeted purposes. If you believe a child has provided personal information in a context we control, contact us at thefactorapp@gmail.com or through Contact Support in Settings.
+The App is a general-audience financial information tool and is not directed at children under 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children for targeted purposes. If you believe a child has provided personal information in a context we control, contact us at signatureappssupport+factorapp@gmail.com or through Contact Support in Settings.
 
 ## International users
 
@@ -78,7 +78,7 @@ We may update this Privacy Policy from time to time to reflect changes in the Ap
 
 ## Contact
 
-For privacy questions or requests regarding this Policy, email thefactorapp@gmail.com or use the Contact Support row in the App’s Settings screen (About section).
+For privacy questions or requests regarding this Policy, email signatureappssupport+factorapp@gmail.com or use the Contact Support row in the App’s Settings screen (About section).
 
 ---
 
