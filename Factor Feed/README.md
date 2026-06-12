@@ -42,51 +42,6 @@ Support: [signatureappssupport+factorapp@gmail.com](mailto:signatureappssupport+
 
 > Factor Feed turns the firehose of U.S. economic data into a clean, glanceable picture. Track inflation, interest rates, jobs, housing, agriculture, debt, and market sentiment — all in one place, refreshed from trusted official sources, and organized exactly the way you want. Compare all 50 states, see how the U.S. stacks up globally, and dive into any indicator for the full story in plain English. Whether you're an investor, a student, or simply economically curious, Factor Feed helps you understand where the economy is headed — without the jargon.
 
-## Requirements
-
-- Node.js (LTS recommended)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/) / `npx expo` as used in scripts
-- For device testing: Expo Go or a **development build** (`expo-dev-client`)
-
-## Install
-
-```bash
-npm install
-```
-
-(Or use your preferred package manager if you keep lockfiles in sync.)
-
-## Run locally
-
-```bash
-npm run start
-```
-
-Starts Metro with **tunnel** mode (see `package.json`). Use the Expo Dev Tools QR code or terminal shortcuts to open iOS simulator, Android emulator, or web.
-
-- **Web only:** `npm run start-web`
-- **Lint:** `npm run lint`
-
-## EAS environments
-
-If you use [EAS Environment Variables](https://docs.expo.dev/eas/environment-variables/), pull them for a given profile:
-
-```bash
-npm run eas:env:pull:dev
-npm run eas:env:pull:preview
-npm run eas:env:pull:production
-```
-
-## Project layout (high level)
-
-
-| Path              | Role                                                    |
-| ----------------- | ------------------------------------------------------- |
-| `app/`            | Screens and navigation (expo-router file-based routes)  |
-| `components/`     | Reusable UI                                             |
-| `providers/`      | React context (theme, query cache, notifications, etc.) |
-| `hooks/` / `lib/` | Data hooks, formatting, API clients                     |
-
 
 ## Contact & support
 
