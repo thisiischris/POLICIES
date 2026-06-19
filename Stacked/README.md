@@ -46,41 +46,6 @@ Most people carry 3–6 credit cards and can barely remember which one earns the
 
 ---
 
-## Getting Started (Developers)
-
-### Prerequisites
-- Node.js 18+
-- Expo CLI
-- Expo Go on your device, or an iOS/Android simulator
-
-### Install & Run
-
-```bash
-git clone <repo-url>
-cd StackedApp
-npm install
-npm start
-```
-
-Scan the QR code with Expo Go, or press `i` for iOS simulator / `a` for Android.
-
-### Scripts
-
-| Command | What it does |
-|---|---|
-| `npm start` | Start the dev server |
-| `npm run ios` | Open on iOS simulator |
-| `npm run android` | Open on Android emulator |
-| `npm run web` | Open in browser |
-
----
-
-## Tech Stack
-
-Built with Expo SDK 55, React Native 0.83.6, and TypeScript. Animations via React Native Reanimated 4 and Gesture Handler. All data stored locally with AsyncStorage — nothing hits a network.
-
----
-
 ## License
 
 Private — all rights reserved.
