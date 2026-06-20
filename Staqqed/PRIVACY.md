@@ -2,13 +2,13 @@
 
 **Last updated:** June 2026
 
-Stacked is a personal credit card wallet app. This page explains how your information is handled when you use it.
+Staqqed is a personal credit card wallet app. This page explains how your information is handled when you use it.
 
 ---
 
 ## The short version
 
-**Stacked doesn't collect anything.** Everything you enter stays on your phone. There are no accounts to create, no servers to send your data to, and no third parties involved — ever.
+**Staqqed doesn't collect anything.** Everything you enter stays on your phone. There are no accounts to create, no servers to send your data to, and no third parties involved — ever.
 
 ---
 
@@ -38,13 +38,13 @@ If you delete the app, your data is deleted with it. You can also remove everyth
 
 ## Internet access
 
-Stacked makes zero network requests. There are no analytics, no crash reporting, no ads, and no cloud backup. The app works entirely offline.
+Staqqed makes zero network requests. There are no analytics, no crash reporting, no ads, and no cloud backup. The app works entirely offline.
 
 ---
 
 ## Camera and photos
 
-If you add a custom card photo, Stacked will ask permission to use your camera or photo library. Photos are saved locally and never uploaded.
+If you add a custom card photo, Staqqed will ask permission to use your camera or photo library. Photos are saved locally and never uploaded.
 
 ---
 
@@ -56,7 +56,7 @@ When you import cards from an Excel or CSV file, the file is read directly on yo
 
 ## Children
 
-Stacked is not intended for children under 13 and does not knowingly collect information from anyone in that age group.
+Staqqed is not intended for children under 13 and does not knowingly collect information from anyone in that age group.
 
 ---
 
@@ -68,4 +68,4 @@ If anything here changes, the update will be noted in the app's release notes.
 
 ## Questions?
 
-Reach out anytime at **sentbysignature@gmail.com**.
+Reach out anytime at **signatureappssupport+staqqed@gmail.com**.
