@@ -1,12 +1,12 @@
-# Stacked — Your Cards, Finally Organized
+# Staqqed — Your Cards, Finally Organized
 
-**Stacked** is the credit card wallet you've always wanted. Add all your cards in one place and instantly see what each one earns, what you owe, when payments are due, and how much your rewards and perks are actually worth. No account required. No internet needed. Your data never leaves your phone.
+**Staqqed** is the credit card wallet you've always wanted. Add all your cards in one place and instantly see what each one earns, what you owe, when payments are due, and how much your rewards and perks are actually worth. No account required. No internet needed. Your data never leaves your phone.
 
 ---
 
-## What Makes Stacked Different
+## What Makes Staqqed Different
 
-Most people carry 3–6 credit cards and can barely remember which one earns the most at restaurants, when the annual fee hits, or how far along they are on a sign-up bonus. Stacked keeps all of that in one clean, beautiful place — so you're always using the right card and never leaving rewards on the table.
+Most people carry 3–6 credit cards and can barely remember which one earns the most at restaurants, when the annual fee hits, or how far along they are on a sign-up bonus. Staqqed keeps all of that in one clean, beautiful place — so you're always using the right card and never leaving rewards on the table.
 
 ---
 
