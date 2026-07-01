@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date: May 13, 2026**
+**Effective Date: June 30, 2026**
 
 Factor Feed does not require a user account. Most preferences and cached data stay on your device; uninstalling the App removes that local data. If you enabled push notifications, we also stored a device push token and alert preferences on our servers so delivery could work — turn off Notification Alerts in Settings (or revoke system notification permission) to stop using that token, and email signatureappssupport+factorfeed@gmail.com or use Contact Support in Settings if you want confirmation of server-side deletion beyond uninstall.
 
@@ -14,7 +14,7 @@ By using the App, you acknowledge this Policy. If you do not agree, please disco
 
 The App does not require you to create a user account. We do not collect your name, email address, or similar profile information through a sign-in flow for use in our own customer database.
 
-The production App does not include third-party advertising SDKs, cross-app behavioral tracking, or sale of personal information for targeted advertising.
+The production App does not include third-party advertising SDKs, cross-app behavioral tracking, or sale of personal information for targeted advertising. The one exception is RevenueCat, which processes optional Factor Feed Pro subscription/purchase status — see "Subscriptions (Factor Feed Pro)" below.
 
 ## Information stored on your device
 
@@ -45,6 +45,10 @@ When you turn on Notification Alerts (or leave granular alert types enabled) and
 Push delivery is relayed through Expo’s push notification service, which in turn uses Apple (APNs) on iOS and Google (FCM) on Android. Expo and those providers process technical identifiers needed to deliver messages; see their respective privacy notices for details.
 
 If you turn off Notification Alerts, the App registers your choice with the server and stops associating a push token with delivery for that device install. You can withdraw consent at any time using the toggles in Settings or by revoking notification permission in the system settings for Factor Feed. Uninstalling the App removes local preferences; you may request deletion of server-side push rows by emailing signatureappssupport+factorfeed@gmail.com or via Contact Support in Settings if you need confirmation beyond uninstall.
+
+## Subscriptions (Factor Feed Pro)
+
+Factor Feed is free to use; an optional auto-renewing subscription, Factor Feed Pro, unlocks additional features. Purchases are processed by Apple's App Store and by [RevenueCat](https://www.revenuecat.com/privacy), which we use to validate receipts and manage subscription entitlement status. RevenueCat receives a device/app identifier and your purchase/subscription state; it does not receive your name, email, or payment card details, which are handled entirely by Apple. We do not sell or share this data with advertisers. See RevenueCat's own privacy policy for how it processes this information. You can view or cancel your subscription at any time in iOS Settings → your name → Subscriptions.
 
 ## Links and embedded browsing
 

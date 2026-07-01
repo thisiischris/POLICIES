@@ -22,13 +22,23 @@ Every figure is live or marked "—". Nothing hardcoded, nothing fake.
 
 FRED (St. Louis Fed), U.S. Treasury, BLS, BEA, U.S. Census Bureau, USDA NASS & ERS, NY Fed, World Bank, Eurostat, ECB, EIA, FDIC, FHFA, CNN Business Fear & Greed, [Alternative.me](http://Alternative.me), MetalpriceAPI, [worldgovernmentbonds.com](http://worldgovernmentbonds.com), and more. The full list with attribution is in Settings → Data Sources.
 
-— ONE-TIME PURCHASE —
+— FREE APP + FACTOR FEED PRO —
 
-Pay $4.99 once. No subscriptions. No in-app purchases. No login. No ads. No analytics SDKs. No third-party trackers. We don't sell your data. The entire app unlocks immediately.
+Factor Feed is free to download and use. No login, no ads, no analytics SDKs. Core data — every indicator's current value and chart, all 50 state overview pages, global country comparisons, the full Terminal category list, up to 5 tracked indicators, and FOMC/rate-decision push alerts — is free forever.
+
+An optional auto-renewing subscription, **Factor Feed Pro** ($2.99/month or $19.99/year, billed through the App Store, cancel anytime in iOS Settings → your name → Subscriptions), unlocks:
+
+• Full indicator breakdown widgets (CPI by category, JOLTS flows, household wealth composition, and more)
+• State-level premium data: Cost of Living, GDP per Capita, Labor Force Participation Rate, 2BR Fair Market Rent, Poverty Rate, Real Estate & Business, and Fiscal Health & Forecast
+• Unlimited access to the Terminal — every category and widget detail overlay
+• Unlimited tracked indicators (free tier: 5)
+• Pro Alerts — push notifications for Macro Alerts, Upcoming Release alerts, per-indicator data-release alerts, and Fear & Greed Index extreme-zone alerts (stock and crypto)
+
+Purchases are processed via [RevenueCat](https://www.revenuecat.com/), which validates App Store receipts; no purchase or payment data is sold or shared with advertisers.
 
 — PRIVATE BY DEFAULT —
 
-No account creation. No behavioural or cross-app tracking. Optional push notifications for indicator alerts (off by default — only on if you enable them in Settings). Works offline using locally cached data.
+No account creation. No behavioural or cross-app tracking. Optional push notifications for indicator alerts (off by default — only on if you enable them in Settings). Subscription/purchase state is processed via RevenueCat for entitlement management. Works offline using locally cached data.
 
 — NOT INVESTMENT ADVICE —
 
