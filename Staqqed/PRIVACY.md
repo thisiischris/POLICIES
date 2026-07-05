@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** June 2026
+**Last updated:** July 2026
 
 Staqqed is a personal credit card wallet app. This page explains how your information is handled when you use it.
 
@@ -8,7 +8,9 @@ Staqqed is a personal credit card wallet app. This page explains how your inform
 
 ## The short version
 
-**Staqqed doesn't collect anything.** Everything you enter stays on your phone. There are no accounts to create, no servers to send your data to, and no third parties involved — ever.
+**Your card data never leaves your phone.** Everything you enter — card details, balances, rewards, everything — stays in local storage on your device. There are no accounts to create and no servers Staqqed sends your card data to.
+
+The only network activity in the app is processing an optional one-time purchase (see "In-app purchases" below), which is handled by Apple and our payments provider, RevenueCat — not by us.
 
 ---
 
@@ -38,13 +40,31 @@ If you delete the app, your data is deleted with it. You can also remove everyth
 
 ## Internet access
 
-Staqqed makes zero network requests. There are no analytics, no crash reporting, no ads, and no cloud backup. The app works entirely offline.
+Staqqed's core wallet features work entirely offline — adding, editing, and viewing cards makes no network requests at all. There are no analytics, no crash reporting, and no ads.
+
+The one exception is unlocking **Staqqed Lifetime** (see below), which requires a network connection to process the purchase and verify your entitlement.
 
 ---
 
-## Camera and photos
+## In-app purchases
 
-If you add a custom card photo, Staqqed will ask permission to use your camera or photo library. Photos are saved locally and never uploaded.
+Staqqed offers an optional, one-time "Lifetime" purchase that unlocks unlimited cards, data export/backup, the payoff calculator, and premium reminders. There is no subscription and no recurring charge.
+
+This purchase is processed by the App Store and managed using **RevenueCat**, a third-party subscription/purchase platform. When you make or restore a purchase, RevenueCat receives an anonymous device/purchase identifier and your transaction receipt from Apple in order to verify and store your entitlement status. RevenueCat does not receive any of your card data — it only ever sees purchase-related information. See [RevenueCat's privacy policy](https://www.revenuecat.com/privacy) for details on how they handle that data.
+
+If you never purchase Staqqed Lifetime, this SDK still initializes on launch to check whether you already own it (e.g. after reinstalling), which involves a network request to RevenueCat with the same anonymous device identifier — no card data is ever included.
+
+---
+
+## Face ID / biometric balance lock
+
+Staqqed lets you hide balances and limits with one tap, and use Face ID (or your device's equivalent biometric) to reveal them again. This authentication happens entirely on-device through Apple/Android's system frameworks — Staqqed never receives, stores, or transmits your biometric data.
+
+---
+
+## Reminders and notifications
+
+If you unlock Staqqed Lifetime, you can enable reminders for due dates, promo APR expiration, annual fees, rotating categories, and milestones. These notifications are scheduled and delivered entirely on your device using local (not push) notifications — nothing is sent to a server to generate or trigger them.
 
 ---
 
