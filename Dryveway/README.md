@@ -1,6 +1,8 @@
 # Dryveway
 
-A React Native (Expo) vehicle-maintenance dashboard — your garage in an app. Track multiple cars, log completed maintenance with one tap (odometer-confirmed), get advance notifications before anything is due, and keep a full service history with costs.
+**Your garage, at a glance.** Dryveway is the vehicle-maintenance dashboard for anyone who's ever forgotten when the oil was last changed or missed a registration renewal. Add every car you own, log service in one tap, and let local reminders tell you what's due — before it becomes a problem. No account, no subscription, no cloud: everything lives on your phone.
+
+A React Native (Expo) vehicle-maintenance dashboard — track multiple cars, log completed maintenance with one tap (odometer-confirmed), get advance notifications before anything is due, and keep a full service history with costs.
 
 Built to the "Refined Blue" design handoff: 4px radii, Inter + JetBrains Mono type, light/dark themes, instrument-panel feel.
 
