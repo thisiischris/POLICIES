@@ -30,4 +30,4 @@ If Dryveway's data practices change (for example, if a future version adds optio
 
 ## Contact
 
-Questions about this policy can be directed to the app's maintainer via the GitHub repository.
+Questions about this policy, or about the app in general, can be sent to **signatureappssupport+dryveway@gmail.com**.
