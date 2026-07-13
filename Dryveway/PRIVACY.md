@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 2026-07-11_
+_Last updated: 2026-07-12_
 
 Dryveway is an offline-first vehicle maintenance tracker. This policy explains what data the app uses and, just as important, what it doesn't.
 
@@ -15,6 +15,12 @@ If you attach a photo to a vehicle, Dryveway accesses your device's photo librar
 ## Notifications
 
 Dryveway schedules local, on-device notifications to remind you about upcoming maintenance and registration renewals. These reminders are generated and delivered entirely on your phone — no notification content or scheduling data is sent to any external service.
+
+## Backup and export
+
+Dryveway can export your data to a CSV file, which you choose to save or share using your device's standard share sheet (for example, to email it to yourself, save it to a cloud-synced folder, or AirDrop it). This only happens when you tap "Export data" — Dryveway itself never sends this file anywhere.
+
+If Auto Backup is turned on, Dryveway silently keeps a single CSV file (and your vehicle photos) up to date in the app's own document storage. On iOS, this file and your photos are visible in the Files app under On My iPhone → Dryveway, which lets you access, copy, or move them yourself — but Dryveway does not transmit them anywhere on its own.
 
 ## Third parties
 
