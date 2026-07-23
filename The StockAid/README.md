@@ -2,7 +2,6 @@
 
 A mobile valuation tool for US-listed stocks. Search any ticker to run four independent valuation models — DCF, Graham Number, Multiples, and Dividend Discount — alongside live quote data, earnings history, analyst estimates, insider transactions, and institutional ownership.
 
-Built with React Native (Expo SDK 55). Financial data is sourced from [Financial Modeling Prep](https://financialmodelingprep.com) via a Cloudflare Worker proxy.
 
 ---
 
