@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: June 2026_
+_Last updated: July 2026_
 
 StockAid does not collect, store, or transmit any personal information.
 
@@ -17,6 +17,7 @@ When you search for a ticker or load a company, the app fetches financial data f
 ## Third-party services
 
 - **Financial Modeling Prep** — data provider. Subject to their own [privacy policy](https://financialmodelingprep.com/privacy-policy).
+- **SEC EDGAR** — public company filings data, sourced directly from the U.S. Securities and Exchange Commission (sec.gov/edgar). No privacy policy applies since these are public records.
 - **Cloudflare** — proxy infrastructure. Subject to their own [privacy policy](https://www.cloudflare.com/privacypolicy/).
 
 ## Analytics and tracking
@@ -33,4 +34,4 @@ If this policy changes materially, the updated date at the top of this document 
 
 ## Contact
 
-For any privacy-related questions, contact: sentbysignature@gmail.com
+For any privacy-related questions, contact: signatureappssupport+thestockaid@gmail.com

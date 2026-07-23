@@ -28,6 +28,7 @@ Do not make investment decisions based solely on information provided by this ap
 ## Legal
 
 - Financial data is provided by Financial Modeling Prep and is subject to their [terms of service](https://financialmodelingprep.com/terms-of-service).
+- Company filing data is sourced directly from the SEC's [EDGAR](https://www.sec.gov/edgar) system, a public service of the U.S. Securities and Exchange Commission.
 - Stock prices and valuations are delayed or estimated and may not reflect real-time market conditions.
 - Past performance of any security is not indicative of future results.
 - This app is not affiliated with, endorsed by, or connected to any exchange, brokerage, or financial institution.
