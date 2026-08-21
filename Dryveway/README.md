@@ -19,7 +19,11 @@ Dryveway is the vehicle-maintenance app for anyone who's ever forgotten when the
 - **Add a photo** for each car so your garage is easy to recognize at a glance
 - **Back up and restore** — export your data to a CSV file anytime, or turn on Auto Backup to silently keep an up-to-date CSV (and your photos) on your device, ready to restore from
 
-Everything you enter stays on your device — no account required, no data sent anywhere.
+Everything you enter stays on your device — no account required, no data sent anywhere except the plain outbound links below, and the official NHTSA recall lookup, which only runs when you tap "Check official recalls."
+
+## Affiliate links
+
+A few screens include optional links to outside sites: a parts search on maintenance items and an OBD-II scanner link on Fault Codes (via Amazon Associates), and a vehicle history report link in the Glovebox (via VinspectorAI). These only open when you tap them, send no vehicle or personal data, and may earn Dryveway a small commission if you make a purchase — at no extra cost to you.
 
 ## Support
 

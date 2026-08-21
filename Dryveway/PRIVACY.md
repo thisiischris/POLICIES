@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 2026-07-12_
+_Last updated: 2026-08-20_
 
 Dryveway is an offline-first vehicle maintenance tracker. This policy explains what data the app uses and, just as important, what it doesn't.
 
@@ -22,9 +22,17 @@ Dryveway can export your data to a CSV file, which you choose to save or share u
 
 If Auto Backup is turned on, Dryveway silently keeps a single CSV file (and your vehicle photos) up to date in the app's own document storage. On iOS, this file and your photos are visible in the Files app under On My iPhone → Dryveway, which lets you access, copy, or move them yourself — but Dryveway does not transmit them anywhere on its own.
 
+## Official recall checks
+
+Tapping "Check official recalls" in a vehicle's Glovebox sends your saved VIN (or year, make, and model if no VIN is saved) to the public NHTSA recall database to look up that vehicle's recalls. This only happens when you tap that button — Dryveway never checks recalls in the background.
+
+## Affiliate links
+
+A few screens include optional outbound links to other sites: a parts search on maintenance items and an OBD-II scanner link on the Fault Codes screen (via Amazon Associates), and a vehicle history report link in the Glovebox (via VinspectorAI). These are plain links that only open when you tap them — Dryveway doesn't send any vehicle or personal data through them, and only earns a commission if you follow one and complete a purchase. Once you leave the app through one of these links, the destination site's own privacy policy applies.
+
 ## Third parties
 
-Dryveway does not integrate with analytics, advertising, or crash-reporting services, and does not share data with any third party, because no data ever leaves your device.
+Dryveway does not integrate with analytics, advertising, or crash-reporting services, and does not share data with any third party on its own. The only outbound network requests are the ones described above (an NHTSA recall lookup you explicitly trigger, and affiliate links you explicitly tap) — nothing else ever leaves your device.
 
 ## Deleting your data
 
