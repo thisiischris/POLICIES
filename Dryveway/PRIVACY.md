@@ -44,4 +44,4 @@ If Dryveway's data practices change (for example, if a future version adds optio
 
 ## Contact
 
-Questions about this policy, or about the app in general, can be sent to **signatureappssupport+dryveway@gmail.com**.
+Questions about this policy, or about the app in general, can be sent to **support+dryveway@signatureapps.app**.

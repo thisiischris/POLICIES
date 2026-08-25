@@ -27,4 +27,4 @@ A few screens include optional links to outside sites: a parts search on mainten
 
 ## Support
 
-Questions or feedback? Email **signatureappssupport+dryveway@gmail.com**
+Questions or feedback? Email **support+dryveway@signatureapps.app**
