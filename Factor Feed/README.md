@@ -46,7 +46,7 @@ Factor Feed is an informational app. There is no brokerage, no trading, no portf
 
 Privacy policy: [https://github.com/thisiischris/FactorFeedApp/blob/main/PRIVACY.md](https://github.com/thisiischris/FactorFeedApp/blob/main/PRIVACY.md)
 
-Support: [signatureappssupport+factorfeed@gmail.com](mailto:signatureappssupport+factorfeed@gmail.com)
+Support: [support+factorfeed@signatureapps.app](mailto:support+factorfeed@signatureapps.app)
 
 ## About Factor Feed
 
@@ -55,7 +55,7 @@ Support: [signatureappssupport+factorfeed@gmail.com](mailto:signatureappssupport
 
 ## Contact & support
 
-If you experience any issues with the app or have questions about anything else, please reach out at [signatureappssupport+factorfeed@gmail.com](mailto:signatureappssupport+factorfeed@gmail.com).
+If you experience any issues with the app or have questions about anything else, please reach out at [support+factorfeed@signatureapps.app](mailto:support+factorfeed@signatureapps.app).
 
 ## License
 

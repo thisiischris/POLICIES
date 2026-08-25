@@ -2,7 +2,7 @@
 
 **Effective Date: June 30, 2026**
 
-Factor Feed does not require a user account. Most preferences and cached data stay on your device; uninstalling the App removes that local data. If you enabled push notifications, we also stored a device push token and alert preferences on our servers so delivery could work — turn off Notification Alerts in Settings (or revoke system notification permission) to stop using that token, and email signatureappssupport+factorfeed@gmail.com or use Contact Support in Settings if you want confirmation of server-side deletion beyond uninstall.
+Factor Feed does not require a user account. Most preferences and cached data stay on your device; uninstalling the App removes that local data. If you enabled push notifications, we also stored a device push token and alert preferences on our servers so delivery could work — turn off Notification Alerts in Settings (or revoke system notification permission) to stop using that token, and email support+factorfeed@signatureapps.app or use Contact Support in Settings if you want confirmation of server-side deletion beyond uninstall.
 
 ## Introduction
 
@@ -44,7 +44,7 @@ When you turn on Notification Alerts (or leave granular alert types enabled) and
 
 Push delivery is relayed through Expo’s push notification service, which in turn uses Apple (APNs) on iOS and Google (FCM) on Android. Expo and those providers process technical identifiers needed to deliver messages; see their respective privacy notices for details.
 
-If you turn off Notification Alerts, the App registers your choice with the server and stops associating a push token with delivery for that device install. You can withdraw consent at any time using the toggles in Settings or by revoking notification permission in the system settings for Factor Feed. Uninstalling the App removes local preferences; you may request deletion of server-side push rows by emailing signatureappssupport+factorfeed@gmail.com or via Contact Support in Settings if you need confirmation beyond uninstall.
+If you turn off Notification Alerts, the App registers your choice with the server and stops associating a push token with delivery for that device install. You can withdraw consent at any time using the toggles in Settings or by revoking notification permission in the system settings for Factor Feed. Uninstalling the App removes local preferences; you may request deletion of server-side push rows by emailing support+factorfeed@signatureapps.app or via Contact Support in Settings if you need confirmation beyond uninstall.
 
 ## Subscriptions (Factor Feed Pro)
 
@@ -60,7 +60,7 @@ The production Factor Feed app distributed on the App Store and Google Play does
 
 ## Children’s privacy
 
-The App is a general-audience financial information tool and is not directed at children under 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children for targeted purposes. If you believe a child has provided personal information in a context we control, contact us at signatureappssupport+factorfeed@gmail.com or through Contact Support in Settings.
+The App is a general-audience financial information tool and is not directed at children under 13 (or the minimum age required in your jurisdiction). We do not knowingly collect personal information from children for targeted purposes. If you believe a child has provided personal information in a context we control, contact us at support+factorfeed@signatureapps.app or through Contact Support in Settings.
 
 ## International users
 
@@ -82,7 +82,7 @@ We may update this Privacy Policy from time to time to reflect changes in the Ap
 
 ## Contact
 
-For privacy questions or requests regarding this Policy, email signatureappssupport+factorfeed@gmail.com or use the Contact Support row in the App’s Settings screen (About section).
+For privacy questions or requests regarding this Policy, email support+factorfeed@signatureapps.app or use the Contact Support row in the App’s Settings screen (About section).
 
 ---
 
