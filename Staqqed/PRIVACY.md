@@ -88,4 +88,4 @@ If anything here changes, the update will be noted in the app's release notes.
 
 ## Questions?
 
-Reach out anytime at **signatureappssupport+staqqed@gmail.com**.
+Reach out anytime at **support+staqqed@signatureapps.app**.
