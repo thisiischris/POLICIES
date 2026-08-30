@@ -2,6 +2,8 @@
 
 **Last updated:** July 2026
 
+**Canonical URL:** https://www.signatureapps.app/staqqed-privacy
+
 Staqqed is a personal credit card wallet app. This page explains how your information is handled when you use it.
 
 ---
