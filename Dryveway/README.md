@@ -25,6 +25,11 @@ Everything you enter stays on your device — no account required, no data sent 
 
 A few screens include optional links to outside sites: a parts search on maintenance items and an OBD-II scanner link on Fault Codes (via Amazon Associates), and a vehicle history report link in the Glovebox (via VinspectorAI). These only open when you tap them, send no vehicle or personal data, and may earn Dryveway a small commission if you make a purchase — at no extra cost to you.
 
+## Links
+
+- Online version of this README: https://www.signatureapps.app/dryveway-readme
+- Privacy Policy: https://www.signatureapps.app/dryveway-privacy
+
 ## Support
 
 Questions or feedback? Email **support+dryveway@signatureapps.app**
