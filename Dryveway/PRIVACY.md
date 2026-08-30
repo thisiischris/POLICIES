@@ -2,8 +2,6 @@
 
 _Last updated: 2026-08-20_
 
-The current version of this policy is published at https://www.signatureapps.app/dryveway-privacy. See also the app README at https://www.signatureapps.app/dryveway-readme.
-
 Dryveway is an offline-first vehicle maintenance tracker. This policy explains what data the app uses and, just as important, what it doesn't.
 
 ## Data storage
@@ -47,3 +45,7 @@ If Dryveway's data practices change (for example, if a future version adds optio
 ## Contact
 
 Questions about this policy, or about the app in general, can be sent to **support+dryveway@signatureapps.app**.
+
+## About the app
+
+[Dryveway README](https://www.signatureapps.app/dryveway-readme)
