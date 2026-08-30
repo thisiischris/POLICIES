@@ -48,4 +48,4 @@ Questions about this policy, or about the app in general, can be sent to **suppo
 
 ## About the app
 
-[Dryveway README](https://www.signatureapps.app/dryveway-readme)
+[Readme](https://www.signatureapps.app/dryveway-readme)
