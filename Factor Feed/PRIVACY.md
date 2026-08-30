@@ -88,4 +88,6 @@ For privacy questions or requests regarding this Policy, email support+factorfee
 
 Readme: [https://www.signatureapps.app/factor-feed-readme](https://www.signatureapps.app/factor-feed-readme)
 
+Privacy policy: [https://www.signatureapps.app/factor-feed-privacy](https://www.signatureapps.app/factor-feed-privacy)
+
 © 2026 Factor Feed. All rights reserved.
