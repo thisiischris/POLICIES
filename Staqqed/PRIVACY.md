@@ -92,4 +92,4 @@ Reach out anytime at **support+staqqed@signatureapps.app**.
 
 ---
 
-[README](https://www.signatureapps.app/staqqed-readme)
+[Readme](https://www.signatureapps.app/staqqed-readme)
