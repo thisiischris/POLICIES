@@ -2,8 +2,6 @@
 
 **Effective Date: June 30, 2026**
 
-The canonical version of this Privacy Policy is published at [https://www.signatureapps.app/factor-feed-privacy](https://www.signatureapps.app/factor-feed-privacy). App documentation (readme) is published at [https://www.signatureapps.app/factor-feed-readme](https://www.signatureapps.app/factor-feed-readme).
-
 Factor Feed does not require a user account. Most preferences and cached data stay on your device; uninstalling the App removes that local data. If you enabled push notifications, we also stored a device push token and alert preferences on our servers so delivery could work — turn off Notification Alerts in Settings (or revoke system notification permission) to stop using that token, and email support+factorfeed@signatureapps.app or use Contact Support in Settings if you want confirmation of server-side deletion beyond uninstall.
 
 ## Introduction
@@ -87,5 +85,7 @@ We may update this Privacy Policy from time to time to reflect changes in the Ap
 For privacy questions or requests regarding this Policy, email support+factorfeed@signatureapps.app or use the Contact Support row in the App’s Settings screen (About section).
 
 ---
+
+Readme: [https://www.signatureapps.app/factor-feed-readme](https://www.signatureapps.app/factor-feed-readme)
 
 © 2026 Factor Feed. All rights reserved.
