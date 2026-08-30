@@ -44,7 +44,9 @@ No account creation. No behavioural or cross-app tracking. Optional push notific
 
 Factor Feed is an informational app. There is no brokerage, no trading, no portfolio linking, no real-money transactions. Nothing here is a recommendation to buy, sell, or hold any security. Verify any number against the original source before making decisions.
 
-Privacy policy: [https://github.com/thisiischris/FactorFeedApp/blob/main/PRIVACY.md](https://github.com/thisiischris/FactorFeedApp/blob/main/PRIVACY.md)
+Readme: [https://www.signatureapps.app/factor-feed-readme](https://www.signatureapps.app/factor-feed-readme)
+
+Privacy policy: [https://www.signatureapps.app/factor-feed-privacy](https://www.signatureapps.app/factor-feed-privacy)
 
 Support: [support+factorfeed@signatureapps.app](mailto:support+factorfeed@signatureapps.app)
 
