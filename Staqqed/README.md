@@ -2,9 +2,6 @@
 
 **Staqqed** is the credit card wallet you've always wanted. Add all your cards in one place and instantly see what each one earns, what you owe, when payments are due, and how much your rewards and perks are actually worth. No account required. No internet needed. Your data never leaves your phone.
 
-- **README:** https://www.signatureapps.app/staqqed-readme
-- **Privacy Policy:** https://www.signatureapps.app/staqqed-privacy
-
 ---
 
 ## What Makes Staqqed Different
@@ -55,10 +52,14 @@ Most people carry 3–6 credit cards and can barely remember which one earns the
 ### Free vs. Lifetime
 - Free tier tracks up to 3 cards, with full access to the core wallet experience
 - **Staqqed Lifetime** is a one-time in-app purchase (no subscription) that unlocks: unlimited cards, export/backup of your data, the payoff calculator, promo/intro APR tracking, and premium reminders
-- Purchases are processed via the App Store and managed with RevenueCat — see the [Privacy Policy](https://www.signatureapps.app/staqqed-privacy) for what that involves
+- Purchases are processed via the App Store and managed with RevenueCat — see the Privacy Policy for what that involves
 
 ---
 
 ## License
 
 Private — all rights reserved.
+
+---
+
+[Privacy Policy](https://www.signatureapps.app/staqqed-privacy)
