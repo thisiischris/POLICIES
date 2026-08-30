@@ -61,6 +61,4 @@ Private / not for redistribution unless the repository owner says otherwise.
 
 ---
 
-Readme: [https://www.signatureapps.app/factor-feed-readme](https://www.signatureapps.app/factor-feed-readme)
-
-Privacy policy: [https://www.signatureapps.app/factor-feed-privacy](https://www.signatureapps.app/factor-feed-privacy)
+[Privacy Policy](https://www.signatureapps.app/factor-feed-privacy)
