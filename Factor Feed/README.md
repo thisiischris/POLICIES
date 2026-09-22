@@ -26,7 +26,7 @@ FRED (St. Louis Fed), U.S. Treasury, BLS, BEA, U.S. Census Bureau, USDA NASS & E
 
 Factor Feed is free to download and use. No login, no ads, no analytics SDKs. Core data — every indicator's current value and chart, all 50 state overview pages, global country comparisons, the full Terminal category list, up to 5 tracked indicators, and FOMC/rate-decision push alerts — is free forever.
 
-An optional auto-renewing subscription, **Factor Feed Pro** ($2.99/month or $19.99/year, billed through the App Store, cancel anytime in iOS Settings → your name → Subscriptions), unlocks:
+An optional auto-renewing subscription, **Factor Feed Pro** ($2.99/month or $29.99/year, billed through the App Store, cancel anytime in iOS Settings → your name → Subscriptions), unlocks:
 
 • Full indicator breakdown widgets (CPI by category, JOLTS flows, household wealth composition, and more)
 • State-level premium data: Cost of Living, GDP per Capita, Labor Force Participation Rate, 2BR Fair Market Rent, Poverty Rate, Real Estate & Business, and Fiscal Health & Forecast
