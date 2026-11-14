@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date: June 30, 2026**
+**Effective Date: November 13, 2026**
 
 Factor Feed does not require a user account. Most preferences and cached data stay on your device; uninstalling the App removes that local data. If you enabled push notifications, we also stored a device push token and alert preferences on our servers so delivery could work — turn off Notification Alerts in Settings (or revoke system notification permission) to stop using that token, and email support+factorfeed@signatureapps.app or use Contact Support in Settings if you want confirmation of server-side deletion beyond uninstall.
 
@@ -78,7 +78,7 @@ We use industry-standard transport security (HTTPS) for network calls. API keys 
 
 ## Changes to this Policy
 
-We may update this Privacy Policy from time to time to reflect changes in the App, legal requirements, or data practices. When we make material changes, we will revise the Effective Date at the top of this Privacy Policy (currently May 13, 2026). Continued use of the App after an update constitutes acceptance of the revised Policy where permitted by law.
+We may update this Privacy Policy from time to time to reflect changes in the App, legal requirements, or data practices. When we make material changes, we will revise the Effective Date at the top of this Privacy Policy (currently November 13, 2026). Continued use of the App after an update constitutes acceptance of the revised Policy where permitted by law.
 
 ## Contact
 
