@@ -30,9 +30,9 @@ This locally stored information resides on your device unless you copy it elsewh
 
 ## Network requests and servers
 
-When you use live or refreshed data, the App makes HTTPS requests to our configured backend endpoints. In production, consolidated market and macro series are requested from our Supabase Edge Function using the project’s publishable (anon) API key in request headers where required by the gateway. Those requests identify the data resources being fetched (for example, FRED series identifiers or structured resource IDs), not your personal identity.
+When you use live or refreshed data, the App makes HTTPS requests to our configured backend endpoints. In production, consolidated market and macro series are requested from our backend API, which runs on Cloudflare Workers, using the App’s publishable API key in request headers where required by the gateway. Those requests identify the data resources being fetched (for example, FRED series identifiers or structured resource IDs), not your personal identity.
 
-Our Edge Function and related server-side logic may call upstream public and commercial data providers (such as FRED, U.S. Treasury, Census, BLS-related releases, World Bank, NY Fed, Alternative.me for crypto sentiment indices, RapidAPI-hosted indices where we have configured access, and similar sources listed in the App’s Data Sources disclosure) to assemble responses. Those providers receive requests from our infrastructure under their own terms and privacy policies.
+Our backend API and related server-side logic may call upstream public and commercial data providers (such as FRED, U.S. Treasury, Census, BLS-related releases, World Bank, NY Fed, Alternative.me for crypto sentiment indices, RapidAPI-hosted indices where we have configured access, and similar sources listed in the App’s Data Sources disclosure) to assemble responses. Those providers receive requests from our infrastructure under their own terms and privacy policies.
 
 In limited configurations, the App may call a third-party API directly from your device (for example, when a RapidAPI key is present and our unified proxy is unavailable). Such calls transmit only what is needed to retrieve the requested index or time series (typically API key headers and endpoint parameters), not an app-specific user ID.
 
@@ -40,7 +40,7 @@ Standard web servers and cloud platforms may automatically process technical met
 
 ## Notifications
 
-When you turn on Notification Alerts (or leave granular alert types enabled) and grant the operating system’s notification permission, the App obtains an Expo push token and sends it, together with your on/off preferences for each alert category, to our Supabase Edge Function using the same publishable project key as other API calls. Tokens are stored in our database only so we can deliver the notifications you asked for.
+When you turn on Notification Alerts (or leave granular alert types enabled) and grant the operating system’s notification permission, the App obtains an Expo push token and sends it, together with your on/off preferences for each alert category, to our backend API on Cloudflare Workers using the same publishable API key as other API calls. Tokens are stored in our database only so we can deliver the notifications you asked for.
 
 Push delivery is relayed through Expo’s push notification service, which in turn uses Apple (APNs) on iOS and Google (FCM) on Android. Expo and those providers process technical identifiers needed to deliver messages; see their respective privacy notices for details.
 
